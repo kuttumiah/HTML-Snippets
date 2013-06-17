@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<video ${1:controls }${2:autoplay }${3:loop }${4:preload = "${5:auto|metadata|none}" }${6:poster="${7:poster.png}" }${8:width= "${9:640}" }${10:height = "${11:480}"}>
+	<source src = "${12:video}.mp4" type = "video/mp4${13:; codecs='avc1.42E01E, mp4a.40.2'}" />
+	<source src = "${12:video}.ogv" type = "video/ogg${13:; codecs='theora, vorbis'}" />
+	<source src = "${12:video}.webm" type = "video/webm${13:; codecs='vp8, vorbis'}" />
+	${14:<!-- fallback text/content -->}
+</video>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vid</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html, source.php</scope>
+	<!-- Optional: Description to show in the menu -->
+    <description>..:: video ::..</description>
+</snippet>
