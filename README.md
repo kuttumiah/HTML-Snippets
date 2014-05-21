@@ -5,5 +5,14 @@ These a collection of snippets for Sublime Text 2 on various HTML Tag. I'm willi
 
 
 vid
+---
+    This is a snippet for HTML5 <video> for automating effectively this tag.
 
-This is a snippet for HTML5 <video> for automating effectively this tag.
+
+
+- [ ] vid
+  - [ ] Test Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
+  - [ ] Test Build prototype #15
+  - [ ] Test run #43 @world-domination/time-travel
+- [ ] aud
+- [ ] etc!
