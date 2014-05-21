@@ -10,7 +10,7 @@ vid
 
 
 
-- [ ] vid
+- [x] vid
   - [ ] Test Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
   - [ ] Test Build prototype #15
   - [ ] Test run #43 @world-domination/time-travel
